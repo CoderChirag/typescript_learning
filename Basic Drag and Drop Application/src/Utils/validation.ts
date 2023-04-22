@@ -1,4 +1,4 @@
-import Validatable from './Validatable.js';
+import Validatable from './Validatable';
 
 export function validate(validatableInput: Validatable) {
 	let isValid = true;
